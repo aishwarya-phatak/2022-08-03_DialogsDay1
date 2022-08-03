@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialogsDay1</string>
+    <string name="date_picker_dialog">Date Picker Dialog</string>
+    <string name="time_picker_dialog">Time Picker Dialog</string>
+</resources>
